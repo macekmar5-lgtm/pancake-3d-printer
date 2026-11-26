@@ -4,3 +4,4 @@ __pycache__/
 .vscode/
 Thumbs.db
 .DS_Store
+*.f3d
